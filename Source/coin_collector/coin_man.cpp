@@ -21,6 +21,7 @@ Acoin_man::Acoin_man()
     GetCharacterMovement()->bOrientRotationToMovement = true;
     GetCharacterMovement()->RotationRate = FRotator(0.0f,540.f,0.0f);
     GetCharacterMovement()->JumpZVelocity = 600.0f;
+    GetCharacterMovement()->AirControl = 0.2f;
     
     CameraBoom = CreateDefaultSubobject<USpringArmComponent> (TEXT("CameraBoom"));
     CameraBoom->SetupAttachment (RootComponent);

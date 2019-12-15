@@ -1623,35 +1623,35 @@
 "../../../Engine/Content/Editor/Slate/Icons/AssetIcons/Cone_64x.uasset" 1622
 "../../../Engine/Content/Editor/Slate/Icons/AssetIcons/Sphere_64x.uasset" 1623
 "../../../Engine/Content/Editor/Slate/Icons/AssetIcons/Sphere_16x.uasset" 1624
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1625
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1626
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1627
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1628
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1629
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1630
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1631
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1632
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1633
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1634
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1635
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1636
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1637
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1638
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1639
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1640
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1641
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1642
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1643
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1644
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1645
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1646
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1647
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1648
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1649
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1650
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1651
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1652
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Blueprints/coinman_BP.uasset" 1653
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1625
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1626
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1627
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1628
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1629
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1630
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1631
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1632
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1633
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1634
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1635
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1636
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1637
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1638
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1639
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1640
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1641
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1642
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1643
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1644
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1645
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1646
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1647
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1648
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1649
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1650
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1651
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Physics/MyRagDoll.uasset" 1652
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1653
 "../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" 1654
 "../../Plugins/Developer/AnimationSharing/Content/AnimSharingBase.uasset" 1655
 "../../Plugins/Developer/AnimationSharing/Content/AnimSharingGreen.uasset" 1656
@@ -1782,45 +1782,48 @@
 "../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1781
 "../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1782
 "../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1783
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1784
-"../../../Engine/Content/Maps/Entry.umap" 1785
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1786
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1787
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1788
-"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1789
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1790
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1791
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1792
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1793
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1794
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1795
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1796
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1797
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1798
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1799
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1800
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1801
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1802
-"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1803
-"../../../Engine/Content/Maps/Templates/TimeOfDay_Default_BuiltData.uasset" 1804
-"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uasset" 1805
-"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_02_Metal.uasset" 1806
-"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1807
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1808
-"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 1809
-"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 1810
-"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 1811
-"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1812
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Blueprints/pickableItem_BP.uasset" 1813
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 1814
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Geometry/Meshes/CubeMaterial.uasset" 1815
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Geometry/Meshes/1M_Cube.uasset" 1816
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1817
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Geometry/Meshes/TemplateFloor.uasset" 1818
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/RampMaterial.uasset" 1819
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 1820
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 1821
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 1822
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 1823
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 1824
-"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" 1825
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Blueprints/Player_PowerUI.uasset" 1784
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Blueprints/coinman_BP.uasset" 1785
+"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 1786
+"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 1787
+"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 1788
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Blueprints/pickableItem_BP.uasset" 1789
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Blueprints/coinman_gamemode_BP.uasset" 1790
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1791
+"../../../Engine/Content/Maps/Entry.umap" 1792
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1793
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1794
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1795
+"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1796
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1797
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1798
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1799
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1800
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1801
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1802
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1803
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1804
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1805
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1806
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1807
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1808
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1809
+"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1810
+"../../../Engine/Content/Maps/Templates/TimeOfDay_Default_BuiltData.uasset" 1811
+"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uasset" 1812
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_02_Metal.uasset" 1813
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1814
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1815
+"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1816
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 1817
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Geometry/Meshes/CubeMaterial.uasset" 1818
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Geometry/Meshes/1M_Cube.uasset" 1819
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1820
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/Geometry/Meshes/TemplateFloor.uasset" 1821
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/RampMaterial.uasset" 1822
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 1823
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 1824
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 1825
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 1826
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 1827
+"../../../../../../gowthamkuntumalla/Documents/Unreal Projects/coin_collector/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" 1828
