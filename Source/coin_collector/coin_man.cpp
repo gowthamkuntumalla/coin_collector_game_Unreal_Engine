@@ -2,6 +2,9 @@
 
 
 #include "coin_man.h"
+#include "Components/SkeletalMeshComponent.h"
+#include "GameFramework/Actor.h"
+#include "Kismet/GameplayStatics.h"
 
 // Sets default values
 Acoin_man::Acoin_man()
@@ -30,6 +33,7 @@ Acoin_man::Acoin_man()
     FollowCamera-> bUsePawnControlRotation = false;
     
     bDead = false;
+    Power = 100.0f;
     
     
 
@@ -43,14 +47,32 @@ void Acoin_man::BeginPlay()
 {
 	Super::BeginPlay();
     
-    //GetCapsuleComponent()->OnComponentBeginOverlap.AddDynamic(this,&Acoin_man::OnBeginOverlap);
+    GetCapsuleComponent()->OnComponentBeginOverlap.AddDynamic(this,&Acoin_man::OnBeginOverlap);
 	
+    if (Player_Power_Widget_Class != nullptr){
+        Player_Power_Widget = CreateWidget(GetWorld(), Player_Power_Widget_Class);
+        Player_Power_Widget->AddToViewport();
+    }
+    
 }
 
 // Called every frame
 void Acoin_man::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+    Power -= DeltaTime*Power_Threshold;
+    if (Power<=0){
+        
+        if (!bDead){
+            bDead = true;
+            GetMesh()-> SetSimulatePhysics(true);
+            
+            FTimerHandle UnusedHandle;
+            
+            GetWorldTimerManager().SetTimer(UnusedHandle,this,&Acoin_man::RestartGame,3.0f,false);
+            
+        }
+    }
 
 }
 
@@ -98,10 +120,23 @@ void Acoin_man::MoveRight(float Axis){
     
 }
 
+void Acoin_man::RestartGame(){
+    UGameplayStatics::OpenLevel(this,FName(*GetWorld()->GetName()),false);
+}
+
+
 void Acoin_man::OnBeginOverlap(UPrimitiveComponent* HitComp,AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex,
                                bool bFromSweep, const FHitResult &SweepResult){
     
     if(OtherActor->ActorHasTag("Recharge")){
-        UE_LOG(LogTemp, Warning, TEXT("Collided with "));
+        
+        Power+= 10.0f;
+        if(Power>=100.0f){
+            Power = 100.0f;
+        }
+        
+        OtherActor->Destroy();
+        
     }
 }
+
