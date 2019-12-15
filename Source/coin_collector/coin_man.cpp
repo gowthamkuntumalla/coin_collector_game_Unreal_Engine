@@ -43,7 +43,7 @@ void Acoin_man::BeginPlay()
 {
 	Super::BeginPlay();
     
-    GetCapsuleComponent()->OnComponentBeginOverlap.AddDynamic(this,&Acoin_man::OnBeginOverlap);
+    //GetCapsuleComponent()->OnComponentBeginOverlap.AddDynamic(this,&Acoin_man::OnBeginOverlap);
 	
 }
 
