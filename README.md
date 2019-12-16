@@ -1,6 +1,6 @@
 # coin_collector by Gowtham Kuntumalla
 
-Developed with Unreal Engine 4.  It is a simple fun to play game.
+Developed with Unreal Engine 4.  It is a simple fun to play game!
 
 
 Goal: 
@@ -11,4 +11,6 @@ Goal:
 
 3. Stay alive as long as you can!!
 
-It has objects that user can climb user like stairs, cones, blocks etc. Once dead, game restarts.
+Once dead, game restarts. Watch out for the ragdoll effect when coinman runs out of power.
+
+It has objects that user can climb user like stairs, cones, blocks etc. 
