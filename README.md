@@ -16,4 +16,4 @@ Once dead, game restarts. Watch out for the ragdoll effect when coinman runs out
 It has objects that user can climb user like stairs, cones, blocks etc. 
 
 
-It works only on Mac (Not tested on Windows/Ubuntu)
+Works on Mac (Not tested on Windows/Ubuntu)
